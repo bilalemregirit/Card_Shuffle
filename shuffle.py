@@ -1,3 +1,5 @@
+#çok güzel
+
 import random
 
 suits=['Hearts','Spades','Clubs','Diamonds']
